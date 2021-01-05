@@ -1,4 +1,7 @@
 # fileupload
-画像アップロードの練習
-php
-function 関数でデータベースに接続
+画像アップロード
+
+# 言語 
+PHP7.4
+MYSQL5.5
+
